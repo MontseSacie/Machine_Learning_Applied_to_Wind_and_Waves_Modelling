@@ -17,7 +17,13 @@ The repository is structured in three folders:
 
 - **Models evaluation** contain a main file .mlx where we test trained models with data from 2019 and 2020 (Real Time) and we plot "responses vs predicted" plot. We include also two of the files for two concrete models (as examples) used to plot the Learning Curves to evaluate models.
 
-# Web page of the national reasearch project with which we are collaborating
+## Web page of the national reasearch project with which we are collaborating
 - [pagina web del proyecto](http://www.floatingwindturbineucm.com/)
 
+## Used technologies 
+ - Matlab
+ - CircStat toolbox
+ - Regression learner toolbox
+ - Neural Net time series toolbox
+ - Neural Net fitting toolbox
 ![ucm](https://github.com/MontseSacie/Machine-Learning-and-Big-Data/blob/master/imagenes_tfg/LOGODOBLE.jpg)
