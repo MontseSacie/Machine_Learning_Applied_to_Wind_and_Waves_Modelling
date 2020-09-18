@@ -1,3 +1,7 @@
+%%Substitute 2018 for 2019 or RealTime to obtain dataWind2019_st14 and
+%dataWindRealTime_st14 data sets
+%Authors: Montserrat Sacie Alcázar
+%-------------------------------------------------------------------------
 dataWind2018_st14 = data2018;
 dataWind2018_st14.WSPDt_14 = data2018.WSPD;
 dataWind2018_st14.WSPDt_13 = data2018.WSPD;
