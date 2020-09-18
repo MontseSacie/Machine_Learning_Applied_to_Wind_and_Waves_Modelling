@@ -21,10 +21,12 @@ The repository is structured in three folders:
 - [pagina web del proyecto](http://www.floatingwindturbineucm.com/)
 
 ## Used technologies 
- - Matlab
- - CircStat toolbox
- - Regression learner toolbox
- - Neural Net time series toolbox
- - Neural Net fitting toolbox
+Before executing the code, install:
+ - ![Matlab](https://es.mathworks.com/downloads/)
+ - ![CircStat toolbox] (https://es.mathworks.com/matlabcentral/fileexchange/10676-circular-statistics-toolbox-directional-statistics)
+ And install from Matlab apps gestor:
+ - ![Regression learner toolbox] (https://es.mathworks.com/help/stats/regression-learner-app.html)
+ - Neural Net time series toolbox (https://es.mathworks.com/help/deeplearning/ref/neuralnettimeseries-app.html)
+ - Neural Net fitting toolbox (https://es.mathworks.com/help/deeplearning/ref/nftool.html)
  
 ![ucm](https://github.com/MontseSacie/Machine-Learning-and-Big-Data/blob/master/imagenes_tfg/LOGODOBLE.jpg)
