@@ -12,7 +12,7 @@ The repository is structured in three folders:
     - Correlation analysis implementation and 
     - Data cleaning; which include missing values detection and deletion as well as outliers deletion.
 
-- **Features selection and extraction** contains the calculation of F-test score for measure the significance of the variables as well as .m files for data combination that let us   obtain the data sets used during the Training phase.
+- **Features selection and extraction** contains the calculation of F-test score for measuring the significance of the variables as well as .m files for data combination that let us obtain the data sets used during the Training phase.
 
-- **Evaluation**
+- **Models evaluation** contain a main file .mlx where we test trained models with data from 2019 and 2020 (Real Time) and we plot "responses vs predicted" plot. We include also two of the files for two concrete models (as examples) used to plot the Learning Curves to evaluate models.
 
