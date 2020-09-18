@@ -24,7 +24,9 @@ The repository is structured in three folders:
 Before executing the code, install:
  - [Matlab](https://es.mathworks.com/downloads/)
  - [CircStat toolbox](https://es.mathworks.com/matlabcentral/fileexchange/10676-circular-statistics-toolbox-directional-statistics)
- And install from Matlab apps gestor:
+ 
+ And install from Matlab apps manager:
+ 
  - [Regression learner toolbox](https://es.mathworks.com/help/stats/regression-learner-app.html)
  - [Neural Net time series toolbox](https://es.mathworks.com/help/deeplearning/ref/neuralnettimeseries-app.html)
  - [Neural Net fitting toolbox](https://es.mathworks.com/help/deeplearning/ref/nftool.html)
