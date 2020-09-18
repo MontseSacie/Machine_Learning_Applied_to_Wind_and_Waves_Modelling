@@ -7,7 +7,7 @@ In this repository it is shared the code of the bachelor's degree final project 
 
 ## Contents
 The repository is structured in three folders:
-- **EDA and Data cleaning** contains .m files needed during the developing of **Exploratory Data Analysis and Data cleaning phases**. Here is included the code for:
+- **EDA and Data cleaning** contains .m files needed during the developing of **Data loading, Exploratory Data Analysis and Data cleaning phases**. Here is included the code for:
     - Data loading from the web page of NOAA
     - Variables analysis and plots visualization, 
     - Correlation analysis implementation and 
