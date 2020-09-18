@@ -5,6 +5,7 @@ In this repository it is shared the code of the bachelor's degree final project 
 
 **Machine Learning applied to Wind and Waves Modelling**
 
+#Contents
 The repository is structured in three folders:
 - **EDA and Data cleaning** contains .m files needed during the developing of **Exploratory Data Analysis and Data cleaning phases**. Here is included the code for:
     - Data loading from the web page of NOAA
@@ -15,4 +16,3 @@ The repository is structured in three folders:
 - **Features selection and extraction** contains the calculation of F-test score for measuring the significance of the variables as well as .m files for data combination that let us obtain the data sets used during the Training phase.
 
 - **Models evaluation** contain a main file .mlx where we test trained models with data from 2019 and 2020 (Real Time) and we plot "responses vs predicted" plot. We include also two of the files for two concrete models (as examples) used to plot the Learning Curves to evaluate models.
-
