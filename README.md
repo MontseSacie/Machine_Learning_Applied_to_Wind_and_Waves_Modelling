@@ -26,4 +26,5 @@ The repository is structured in three folders:
  - Regression learner toolbox
  - Neural Net time series toolbox
  - Neural Net fitting toolbox
+ 
 ![ucm](https://github.com/MontseSacie/Machine-Learning-and-Big-Data/blob/master/imagenes_tfg/LOGODOBLE.jpg)
