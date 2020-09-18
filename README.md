@@ -19,3 +19,5 @@ The repository is structured in three folders:
 
 # Web page of the national reasearch project with which we are collaborating
 - [pagina web del proyecto](http://www.floatingwindturbineucm.com/)
+
+![ucm](https://github.com/MontseSacie/Machine-Learning-and-Big-Data/blob/master/imagenes_tfg/LOGODOBLE.jpg)
